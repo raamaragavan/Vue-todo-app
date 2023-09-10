@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "task": "Create Vue application",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 2,
+        "task": "Update package.json",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 3,
+        "task": "Do npm install",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 4,
+        "task": "Create routers",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 5,
+        "task": "Create views",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 6,
+        "task": "Create todolist.vue",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 7,
+        "task": "Create add.vue",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 8,
+        "task": "Create edit.vue",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 9,
+        "task": "get Todolist from json",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 10,
+        "task": "Add Tailwind css",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 11,
+        "task": "Add Mobile UI/UX",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 12,
+        "task": "Add form Validation",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 13,
+        "task": "Add State Mangement",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    },
+    {
+        "id": 14,
+        "task": "Add Unit Test cases",
+        "status": "Pending",
+        "dueDate": "2023-08-31T14:56:29.000Z"
+    }
+]
