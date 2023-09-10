@@ -16,7 +16,7 @@
   "dependencies": {
     "@coreui/icons": "^3.0.1",
     "@coreui/icons-vue": "^2.0.0",
-    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
     "@harv46/vue-table": "^0.0.6",
     "core-js": "^3.32.0",
     "lodash.uniqueid": "^4.0.1",
